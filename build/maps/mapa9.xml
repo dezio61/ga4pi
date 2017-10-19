@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map name="mapa1">
+<lvlinfo width="800" height="600" lelem="11" lvlid="9">
+	<postac name="postac" sprite="postac_a.png" w="40" h="80" posX="20" posY="400" />
+</lvlinfo>
+<elemlist>
+	<elem name="ziemia" z-index="p" id="0" flag="c" sprite="ziemia1.png" posX="0" posY="551"/>
+	<elem name="ziemia" z-index="p" id="1" flag="c" sprite="ziemia1.png" posX="250" posY="551"/>
+	<elem name="ziemia" z-index="p" id="2" flag="c" sprite="ziemia1.png" posX="600" posY="551"/>
+	<elem name="ziemia" z-index="p" id="3" flag="c" sprite="ziemia1.png" posX="150" posY="400"/>
+	<elem name="ziemia" z-index="p" id="4" flag="c" sprite="ziemia1.png" posX="0" posY="250"/>
+	<elem name="ziemia" z-index="p" id="5" flag="c" sprite="ziemia1.png" posX="100" posY="100"/>
+	<elem name="ziemia" z-index="p" id="6" flag="c" sprite="ziemia1.png" posX="350" posY="100"/>
+	<elem name="przeszkoda" z-index="p" id="7" flag="c" sprite="przeszkoda1.png" posX="600" posY="251"/>
+	<elem name="drzewo" z-index="z" id="8" flag="n" sprite="drzewo.png" posX="300" posY="153"/>
+</elemlist>
+</map>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map name="mapa1">
+<lvlinfo width="800" height="600" lelem="5" lvlid="6">
+	<postac name="postac" sprite="postac_a.png" w="40" h="80" posX="20" posY="400" />
+</lvlinfo>
+<elemlist>
+	<elem name="ziemia" z-index="p" id="0" flag="c" sprite="ziemia1.jpg" posX="0" posY="551"/>
+	<elem name="ziemia" z-index="p" id="1" flag="c" sprite="ziemia1.jpg" posX="250" posY="551"/>
+	<elem name="ziemia" z-index="p" id="2" flag="c" sprite="ziemia1.jpg" posX="500" posY="551"/>
+	
+</elemlist>
+</map>

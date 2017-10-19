@@ -1,0 +1,1 @@
+g++ -lSDL -lSDL_image Events.o Animation.o Collision.o libs/xmlParser.o LoadMap.o Sprite.o Screen.o main.o -o -g build/main
